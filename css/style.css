@@ -1,0 +1,45 @@
+body{
+  background-color: aqua;
+}
+button{
+  font-size: 18px;
+  padding: 0.2rem 1rem;
+  cursor: pointer;
+  border:none ;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.slider-item {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.slider-item img{
+  width: 40%;
+}
+
+.hidden {
+  display: none;
+}
+
+.controls {
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: center;
+  
+}
+.btnPrev{
+  background-color: pink;
+  border-radius: 10px;
+  color:aqua;
+}
+.btnNext{
+  background-color: pink;
+  border-radius: 10px;
+  color: aqua;
+}
