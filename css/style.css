@@ -17,10 +17,13 @@ button{
   margin: 0 auto;
   text-align: center;
   padding-top: 100px;
+  height: 550px;
 }
 
 .slider-item img{
-  width: 40%;
+  width: 50%;
+  height: 100%;
+  
 }
 
 .hidden {
